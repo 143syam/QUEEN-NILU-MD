@@ -1,8 +1,8 @@
 /*
-WHATSAPP BOT BY Janith sadanuwan 
-WHATSAPP - 94767438882
-SUPPORT GROUP - https://t.me/QueenNilu
-YOUTUBE - http://youtube.com/janithsadanuwan
+WHATSAPP BOT BY syam_ser
+WHATSAPP - 919947121619
+SUPPORT GROUP - https://i.imgur.com/TrJHlgs.png
+YOUTUBE - Nill
 */
 
 const fs = require('fs');
@@ -25,9 +25,9 @@ global.POSTGRESQL_URL = ''
 
 global.OWNER_NUMBER = '94767438882'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = ' 𝑺𝒀𝑨𝑴_𝑺𝑬𝑹😚♥️'
 
-global.TIMEZONE = 'Asia/Colombo' 
+global.TIMEZONE = 'Asia/India' 
 
 global.INBOX_BLOCK_MESSAGE = '' // Inboc Block Message
 
@@ -41,25 +41,25 @@ global.OPENAI_API_KEY = "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"
 ⚙️ BOT  SETTINGS  ⚙️
 */
 
-global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
+global.BOT_NAME = '𝑀𝑅_𝐶𝑌𝐵𝐸𝑅 𝑃𝑆𝑌𝐶𝐻𝑂🤖♻️'
 
-global.FOOTER = 'Queen Nilu 2023'
+global.FOOTER = 'syam_ser 2023'
 
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '@𝑩𝒀 𝑺𝒀𝑨𝑴_𝑺𝑬𝑹 🤹‍♂🎭' //sticker
 
 global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
 
 global.PREFIX = '.' // Bot Prefix
 
-global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
+global.CAPTION = '𝑀𝑅_𝐶𝑌𝐵𝐸𝑅 𝑃𝑆𝑌𝐶𝐻𝑂🤖♻️ © 2023' // Caption
 
-global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
+global.ALIVELOGO = 'https://i.imgur.com/TrJHlgs.png' // Set Alive Logo link 
 
-global.ALIVE_MESSAGE = '' // Set Alive Message
+global.ALIVE_MESSAGE = 'EDA MOWNUU IKKACHI JEEVANODE IND😌🤌🏻' // Set Alive Message
 
-global.MAX_SIZE = '500' // Bot Uloading Max size 
+global.MAX_SIZE = '1028' // Bot Uloading Max size 
 
 global.ANTI_BAD = true // Antibad (on = True , Off = False )
 
@@ -71,12 +71,12 @@ global.ANTI_BOTS = true
 
 global.ONLY_GROUP = 'false' // Only group mode
 
-global.GROUP_LINK = 'https://chat.whatsapp.com/IRdyJY5P4sF5BhtP5PIdHH' // ur group link
+global.GROUP_LINK = 'https://chat.whatsapp.com/Hukf6IqR91SJFigljMVmMK' // ur group link
 
 
 /* 18 + Download Settings */
 
-global.SEX_DL = 'false' // 18 + video dl
+global.SEX_DL = 'true' // 18 + video dl
 
 /* AUTO REPLY SETTINGS */
 
@@ -89,6 +89,6 @@ global.VOICE_REPLY = true
 
 /* V card */
 
-global.ytname = "YT: janithsadanuwan" //ur yt chanel name
-global.socialm = "GitHub: janithsadanuwan" //ur github or insta name
-global.location = "Srilanka, colombo" //ur location
+global.ytname = "YT: Nill" //ur yt chanel name
+global.socialm = "Instagram: _mr.fro_ud_" //ur github or insta name
+global.location = "India,Kerala,palakkad" //ur location
