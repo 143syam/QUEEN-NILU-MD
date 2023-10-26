@@ -1,6 +1,6 @@
 /*
 WHATSAPP BOT BY syam ser
-WHATSAPP - 94767438882
+WHATSAPP - 919947121619
 SUPPORT GROUP - https://chat.whatsapp.com/Hukf6IqR91SJFigljMVmMK
 YOUTUBE - Nill
 */
