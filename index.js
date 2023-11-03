@@ -1,12 +1,11 @@
-/*
-(^_^)／▼☆𝑩𝒀 𝑺𝒀𝑨𝑴_𝑺𝑬𝑹☆▼＼(^_^)
+/*(^_^)／▼☆𝑩𝒀 𝑺𝒀𝑨𝑴_𝑺𝑬𝑹☆▼＼(^_^)
      ╚═══════════════╝ 
 WHATSAPP BOT BY @syam-ser
 Helpers - @Me
         - @Myself
 WHATSAPP - 919947121619
 SUPPORT GROUP - https://t.me/+ts7jY2FS3y9jNjRl
-YOUTUBE - Nill
+YOUTUBE - https://youtube.com/@ghanasyamravi
 
 */
 
