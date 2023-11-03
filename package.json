@@ -1,7 +1,7 @@
 {
-   "name": "QUEEN-NILU-MD",
+   "name": "𝑀𝑅_𝐶𝑌𝐵𝐸𝑅 𝑃𝑆𝑌𝐶𝐻𝑂🤖♻️",
    "version": "2.0.7",
-   "description": "Multi device whatsapp bot.",
+   "description": "Entertainment bot.",
    "main": "index.js",
    "type": "commonjs",
    "license": "GPL-3.0",
@@ -17,16 +17,16 @@
  "keywords": [
  "whatsapp",
  "wabot",
- "Queen Nilu",
- "Quen-NILU-MD",
- "Janithsadanuwan",
+ "Mr.cyber-psycho",
+ "Mr.Cyber_Psycho",
+ "syamser",
  "Multi Device Whatsapp bot",
- "Queen Nilu Whatsapp Bot",
+ "Mr.Cyber_psycho Whatsapp Bot",
  "Baileys"
 
  ],
- "author": "Janith sadanuwan",
- "developer": "Janith sadanuwan",
+ "author": "syam-ser",
+ "developer": "syam-ser",
  "homepage": "https://github.com/anithsadanuwan/QUEEN-NILU-MD",
  "dependencies": {
  "@whiskeysockets/baileys": "git+https://github.com/WhiskeySockets/Baileys.git",
