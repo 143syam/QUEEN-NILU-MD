@@ -19,7 +19,7 @@ global.SESSION_ID = 'QueenNilu;;;s7JjibqY#9sAH-arZe4pijqoThpSE2cU98AhlWlJCVLZpwK
 // databse URL  ##Required 
 global.POSTGRESQL_URL = 'postgres://syam_ser_user:jdVMqgcxOOj0ZCrpMzLe7Nn6x9OFVIy3@dpg-ckqua405vl2c739kdnng-a/syam_ser'
 
-
+ 
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
